@@ -1,0 +1,3 @@
+polars
+pandas
+pyarrow >= 8.0.1
