@@ -25,6 +25,8 @@ print(comp_df.push)           # выгрузить Tuple/List объект в xc
 print(comp_df.pull)           # преобразовать в исходный DataFrame
 ```
 
+вывод скрипта в консоль:
+
 ```bash
 CompactFrame for polars DataFrame    
 ---------------------------------    
